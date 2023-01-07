@@ -102,8 +102,8 @@ body {
 }
 
 .form-control-check input {
-  flex: 2;
   height: 20px;
+  flex: 2;
 }
 
 footer {
